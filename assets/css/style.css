@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #beb7b7;
+
+}
+
+.Card-product {
+    width: fit-content;
+    padding: 32px;
+    box-shadow: 0 1px 10px rgb(255, 255, 255);
+}
+
+.container-text {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-product{
+    border-radius: 12px;
+    width: 300px;
+}
+
+.Container-Products{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    row-gap: 2rem;    
+    column-gap: 1.2rem;
+}
+
+.value {
+    color: green;
+}
+
+.TeamWork{
+    width: fit-content;
+    position: relative;
+    box-shadow: 0 1px 10px rgb(255, 255, 255);
+    padding: 16px; 
+    margin-top: 24px;
+    
+}
+    
+ 
+
+
+.Img-TeamWork{
+    width: 300px;
+}
+
+.container-text-functions{
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+}
+
+.name{
+    text-align: center;
+    width: 100%;
+}
+
+.title-about{
+    text-align: center;
+    width: 100%;
+}
+
+.txt-about{
+    width: 700px;
+   
+}
+
+.container-txt-about{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+
+}
