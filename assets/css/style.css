@@ -15,15 +15,15 @@ body {
     justify-content: space-between;
 }
 
-.img-product{
+.img-product {
     border-radius: 12px;
     width: 300px;
 }
 
-.Container-Products{
+.Container-Products {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    row-gap: 2rem;    
+    row-gap: 2rem;
     column-gap: 1.2rem;
 }
 
@@ -31,47 +31,80 @@ body {
     color: green;
 }
 
-.TeamWork{
+.max-container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    justify-items: center;
+}
+
+.Container-TeamWork {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    column-gap: 8px;
+    row-gap: 32px;
+    max-width: 1200px;
+    width: 100%;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
+    
+.TeamWork {
     width: fit-content;
     position: relative;
-    box-shadow: 0 1px 10px rgb(255, 255, 255);
-    padding: 16px; 
+    box-shadow: 0 1px 10px rgb(19, 11, 11);
     margin-top: 24px;
-    
+    background: #e8e7e7;
+    border-radius: 16px;
+    overflow: hidden;
+    transition: 300ms;
+    cursor: pointer;
 }
-    
- 
 
+.TeamWork:hover {
+    transform: scale(1.1);
+}
 
-.Img-TeamWork{
+.Img-TeamWork {
     width: 300px;
+    max-height: 200px;
 }
 
-.container-text-functions{
+.container-text-functions {
     display: flex;
-    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+}
+
+.container-text-functions p {
+    display: flex;
     width: 280px;
 }
 
-.name{
+.name {
     text-align: center;
     width: 100%;
 }
 
-.title-about{
+.title-about {
     text-align: center;
     width: 100%;
 }
 
-.txt-about{
+.txt-about {
     width: 700px;
-   
+
 }
 
-.container-txt-about{
+.container-txt-about {
     width: 100%;
     display: flex;
     justify-content: center;
-    
+
 
 }
