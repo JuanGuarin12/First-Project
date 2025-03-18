@@ -92,9 +92,10 @@ body {
     width: 100%;
 }
 
-.title-about {
+.title{
     text-align: center;
     width: 100%;
+    font-size: 36px;
 }
 
 .txt-about {
@@ -132,6 +133,10 @@ body {
     display: flex;
 }
 
+hr{
+    width: 88%;
+    color: aqua;
+}
 
 
 @media screen and (max-width:970px) {
@@ -155,4 +160,47 @@ body {
     .Vision{
         width: 300px;
     }
+}
+
+.contactus-container{
+    width: 100%;
+    align-items: center;
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.information-container{
+    width: 100%;
+    align-items: center;
+    align-content: center; 
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+    gap: 42px;
+}
+
+
+.contactinfo{
+    display: flex;
+}
+
+.icon{
+    display: flex;
+    width: 48px;
+    border-radius: 100%;
+    padding: 10px;
+    background: #0995ffe7;
+    color: white;
+}
+
+.contactinfo{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(211, 208, 208);
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    height: 260px;
+    padding-inline: 32px;
+    border-radius: 32px;
 }
