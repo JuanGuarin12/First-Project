@@ -1,0 +1,542 @@
+[
+    {
+        "nombre": "Yamaha FZ-S V3",
+        "precio_usd": 2500,
+        "rating": 4.7,
+        "ficha_tecnica": {
+            "motor": "149 cc, 4 tiempos, monocilíndrico",
+            "potencia": "12.4 hp",
+            "torque": "13.6 Nm",
+            "peso": "129 kg"
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJii_2uNPkDQUCLRg4l0amDQhdpozYADK6g&s"
+    },
+    {
+        "nombre": "Honda CB125F",
+        "precio_usd": 2000,
+        "rating": 4.5,
+        "ficha_tecnica": {
+            "motor": "124.7 cc, 4 tiempos, monocilíndrico",
+            "potencia": "10 hp",
+            "torque": "10.7 Nm",
+            "peso": "121 kg"
+        },
+        "img": "https://motos.honda.com.co/images/cms/67895a261eb4eCB125F-HONDA-MOTOS.jpg"
+    },
+    {
+        "nombre": "Honda XR 190",
+        "precio_usd": 2300,
+        "rating": 4.6,
+        "ficha_tecnica": {
+            "motor": "190 cc, 4 tiempos, monocilíndrico",
+            "potencia": "16 hp",
+            "torque": "17 Nm",
+            "peso": "133 kg"
+        },
+        "img": "https://http2.mlstatic.com/D_NQ_NP_824943-MCO75636511482_042024-O.webp"
+    },
+    {
+        "nombre": "Bajaj Pulsar 150",
+        "precio_usd": 2200,
+        "rating": 4.4,
+        "ficha_tecnica": {
+            "motor": "149 cc, 4 tiempos, monocilíndrico",
+            "potencia": "14 hp",
+            "torque": "13.4 Nm",
+            "peso": "136 kg"
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQGtuLfcKEJA3v14meUSVRhBNEKrp5T7NoIg&s"
+    },
+    {
+        "nombre": "Suzuki GSX-S150",
+        "precio_usd": 2400,
+        "rating": 4.6,
+        "ficha_tecnica": {
+            "motor": "147 cc, 4 tiempos, monocilíndrico",
+            "potencia": "17 hp",
+            "torque": "14 Nm",
+            "peso": "137 kg"
+        },
+        "img": "https://d3bmp4azzreq60.cloudfront.net/fit-in/2000x2000/vendetunave/images/vehiculos/678fbdd719779.webp"
+    },
+    {
+        "nombre": "AKT 125",
+        "precio_usd": 1800,
+        "rating": 4.3,
+        "ficha_tecnica": {
+            "motor": "124 cc, 4 tiempos, monocilíndrico",
+            "potencia": "11 hp",
+            "torque": "10.2 Nm",
+            "peso": "115 kg"
+        },
+        "img": "https://nkd.aktmotos.com/wp-content/uploads/2021/03/TemplateNKD-AKT-NuevaLED-%E2%80%93-1-1.jpg"
+    },
+    {
+        "nombre": "Yamaha YBR 125",
+        "precio_usd": 2100,
+        "rating": 4.5,
+        "ficha_tecnica": {
+            "motor": "124 cc, 4 tiempos, monocilíndrico",
+            "potencia": "9.6 hp",
+            "torque": "10 Nm",
+            "peso": "121 kg"
+        },
+        "img": "https://dcdn-us.mitiendanube.com/stores/001/450/452/products/yamaha-ybrz-125-andes-motors1-6461a09a1ae368c4c916297489196329-1024-1024.jpg"
+    },
+    {
+        "nombre": "TVS Apache RTR 160",
+        "precio_usd": 2000,
+        "rating": 4.5,
+        "ficha_tecnica": {
+            "motor": "159 cc, 4 tiempos, monocilíndrico",
+            "potencia": "15.6 hp",
+            "torque": "14 Nm",
+            "peso": "134 kg"
+        },
+        "img": "https://images.deccanherald.com/deccanherald%2Fimport%2Fsites%2Fdh%2Ffiles%2Farticleimages%2F2021%2F10%2F08%2Fdownload-1038583-1633682396.png?auto=format%2Ccompress&fmt=webp&fit=max&format=webp&q=70&w=400&dpr=2"
+    },
+    {
+        "nombre": "Honda CB300R",
+        "precio_usd": 3500,
+        "rating": 4.6,
+        "ficha_tecnica": {
+            "motor": "279 cc, 4 tiempos, monocilíndrico",
+            "potencia": "30 hp",
+            "torque": "27 Nm",
+            "peso": "143 kg"
+        },
+        "img": "https://cdn.dealerspike.com/imglib/v1/800x600/imglib/Assets/Inventory/58/CC/58CCE06D-0846-4C74-AED5-DD23D8F9CDDB.jpg"
+    },
+    {
+        "nombre": "Yamaha MT-15",
+        "precio_usd": 3200,
+        "rating": 4.8,
+        "ficha_tecnica": {
+            "motor": "155 cc, 4 tiempos, monocilíndrico",
+            "potencia": "18.5 hp",
+            "torque": "14 Nm",
+            "peso": "138 kg"
+        },
+        "img": "https://preview.redd.it/does-mt15-price-is-justified-v0-nr1rgy06qa7c1.jpeg?width=1080&crop=smart&auto=webp&s=b532aff5e6e4e356940dd9d34275b3bbdcdc4ae0"
+    },
+    {
+        "nombre": "Suzuki GN 125",
+        "precio_usd": 2000,
+        "rating": 4.3,
+        "ficha_tecnica": {
+            "motor": "124 cc, 4 tiempos, monocilíndrico",
+            "potencia": "9.5 hp",
+            "torque": "10 Nm",
+            "peso": "112 kg"
+        },
+        "img": "https://http2.mlstatic.com/D_NQ_NP_712765-MCO82068757746_022025-O.webp"
+    },
+    {
+        "nombre": "Yamaha R15",
+        "precio_usd": 3000,
+        "rating": 4.7,
+        "ficha_tecnica": {
+            "motor": "155 cc, 4 tiempos, monocilíndrico",
+            "potencia": "19.6 hp",
+            "torque": "14.7 Nm",
+            "peso": "119 kg"
+        },
+        "img": "https://http2.mlstatic.com/D_Q_NP_2X_906976-MCO83236275169_032025-T.webp"
+    },
+    {
+        "nombre": "Honda CB500F",
+        "precio_usd": 6500,
+        "rating": 4.8,
+        "ficha_tecnica": {
+            "motor": "471 cc, 4 tiempos, bicilíndrico",
+            "potencia": "47 hp",
+            "torque": "43 Nm",
+            "peso": "189 kg"
+        },
+        "img": "https://static0.topspeedimages.com/wordpress/wp-content/uploads/jpg/201812/2019-honda-cb500f.jpg"
+    },
+    {
+        "nombre": "Yamaha Fazer 250",
+        "precio_usd": 3200,
+        "rating": 4.7,
+        "ficha_tecnica": {
+            "motor": "249 cc, 4 tiempos, monocilíndrico",
+            "potencia": "20 hp",
+            "torque": "22 Nm",
+            "peso": "134 kg"
+        },
+        "img": "https://preview.redd.it/opini%C3%B5es-de-quem-teve-fazer-250-anos-de-2008-2010-v0-3zzsi3sgm8hd1.png?width=580&format=png&auto=webp&s=b8ad8f46ebe70898989b21b52174d8d9bbe71a5a"
+    },
+    {
+        "nombre": "Honda XRE 300",
+        "precio_usd": 3100,
+        "rating": 4.6,
+        "ficha_tecnica": {
+            "motor": "292 cc, 4 tiempos, monocilíndrico",
+            "potencia": "24 hp",
+            "torque": "27 Nm",
+            "peso": "138 kg"
+        },
+        "img": "https://http2.mlstatic.com/D_NQ_NP_687310-MCO81450453563_122024-O.webp"
+    },
+    {
+        "nombre": "Bajaj Dominar 400",
+        "precio_usd": 3700,
+        "rating": 4.5,
+        "ficha_tecnica": {
+            "motor": "373 cc, 4 tiempos, monocilíndrico",
+            "potencia": "39 hp",
+            "torque": "35 Nm",
+            "peso": "157 kg"
+        },
+        "img": "https://soymotero.net/wp-content/uploads/2024/11/Bajaj-Dominar-400-2025-1.jpg"
+    },
+    {
+        "nombre": "KTM 390 Duke",
+        "precio_usd": 4000,
+        "rating": 4.8,
+        "ficha_tecnica": {
+            "motor": "373 cc, 4 tiempos, monocilíndrico",
+            "potencia": "44 hp",
+            "torque": "37 Nm",
+            "peso": "149 kg"
+        },
+        "img": "https://http2.mlstatic.com/D_NQ_NP_944756-MCO79637357436_102024-O.webp"
+    },
+    {
+        "nombre": "Kawasaki Ninja 400",
+        "precio_usd": 4200,
+        "rating": 4.8,
+        "ficha_tecnica": {
+            "motor": "399 cc, 4 tiempos, bicilíndrico",
+            "potencia": "49 hp",
+            "torque": "38 Nm",
+            "peso": "167 kg"
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8bSKvuLJpbfBm2l-mFjMQm7SdskAeTbjmQ&s"
+    },
+    {
+        "nombre": "Royal Enfield Himalayan",
+        "precio_usd": 3500,
+        "rating": 4.5,
+        "ficha_tecnica": {
+            "motor": "411 cc, 4 tiempos, monocilíndrico",
+            "potencia": "24 hp",
+            "torque": "32 Nm",
+            "peso": "191 kg"
+        },
+        "img": "https://www.galgo.com/wp-content/uploads/2023/12/royal-enfield-himalayan-nueva-1.jpg"
+    },
+    {
+        "nombre": "Yamaha YZF-R3",
+        "precio_usd": 5000,
+        "rating": 4.7,
+        "ficha_tecnica": {
+            "motor": "321 cc, 4 tiempos, bicilíndrico",
+            "potencia": "42 hp",
+            "torque": "29 Nm",
+            "peso": "168 kg"
+        },
+        "img": "https://http2.mlstatic.com/D_NQ_NP_773733-MCO81924940549_012025-O.webp"
+    },
+    {
+        "nombre": "Honda CBR500R",
+        "precio_usd": 7000,
+        "rating": 4.8,
+        "ficha_tecnica": {
+            "motor": "471 cc, 4 tiempos, bicilíndrico",
+            "potencia": "47 hp",
+            "torque": "43 Nm",
+            "peso": "192 kg"
+        },
+        "img": "https://www.mcnews.com.au/wp-content/uploads/2024/11/2024-Honda-CBR500R-Review-RbMotoLens-RML_8697-.jpg"
+    },
+    {
+        "nombre": "Suzuki GSX-R600",
+        "precio_usd": 9000,
+        "rating": 4.7,
+        "ficha_tecnica": {
+            "motor": "599 cc, 4 tiempos, bicilíndrico",
+            "potencia": "105 hp",
+            "torque": "66 Nm",
+            "peso": "186 kg"
+        },
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2a/2007TMS_Suzuki_GSX-R_600.jpg"
+    },
+    {
+        "nombre": "CFMoto 300NK",
+        "precio_usd": 2900,
+        "rating": 4.4,
+        "ficha_tecnica": {
+            "motor": "292 cc, 4 tiempos, monocilíndrico",
+            "potencia": "27 hp",
+            "torque": "28 Nm",
+            "peso": "145 kg"
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQqLb9oqj1Wje6Ih8_00OA_6q9zOc6YUk0w&s"
+    },
+    {
+        "nombre": "Yamaha MT-03",
+        "precio_usd": 4800,
+        "rating": 4.5,
+        "ficha_tecnica": {
+            "motor": "321 cc, 4 tiempos, bicilíndrico",
+            "potencia": "42 hp",
+            "torque": "29 Nm",
+            "peso": "169 kg"
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPfLXuI9l1CZUq-OgFNBT8bLHnzxWr9EF1ag&s"
+    },
+    {
+        "nombre": "Suzuki Gixxer SF 250",
+        "precio_usd": 3300,
+        "rating": 4.6,
+        "ficha_tecnica": {
+            "motor": "249 cc, 4 tiempos, monocilíndrico",
+            "potencia": "20 hp",
+            "torque": "21 Nm",
+            "peso": "133 kg"
+        },
+        "img": "https://http2.mlstatic.com/D_NQ_NP_623534-MCO75596176439_042024-O.webp"
+    },
+    {
+        "nombre": "Honda XR 250L",
+        "precio_usd": 2600,
+        "rating": 4.5,
+        "ficha_tecnica": {
+            "motor": "249 cc, 4 tiempos, monocilíndrico",
+            "potencia": "20 hp",
+            "torque": "21 Nm",
+            "peso": "132 kg"
+        },
+        "img": "https://bringatrailer.com/wp-content/uploads/2023/08/1993_honda_xr250l_img_0725-4-92280.jpg"
+    },
+    {
+        "nombre": "Bajaj Pulsar NS200",
+        "precio_usd": 2400,
+        "rating": 4.6,
+        "ficha_tecnica": {
+            "motor": "199 cc, 4 tiempos, monocilíndrico",
+            "potencia": "24 hp",
+            "torque": "18 Nm",
+            "peso": "138 kg"
+        },
+        "img": "https://wallpapers.com/images/hd/ns-200-pictures-teb0qbd4rx6s64py.jpg"
+    },
+    {
+        "nombre": "TVS Apache 200",
+        "precio_usd": 2300,
+        "rating": 4.5,
+        "ficha_tecnica": {
+            "motor": "197 cc, 4 tiempos, monocilíndrico",
+            "potencia": "20 hp",
+            "torque": "18 Nm",
+            "peso": "135 kg"
+        },
+        "img": "https://www.elcarrocolombiano.com/wp-content/uploads/2018/11/20181101-TVR-APACHE-RTR-200-COLOMBIA-PRECIO-CARACTERISTICAS-01.jpg"
+    },
+    {
+        "nombre": "Ducati Streetfighter V4",
+        "precio_usd": 23000,
+        "rating": 5,
+        "ficha_tecnica": {
+            "motor": "V4 1103 cc",
+            "potencia": "205 hp",
+            "torque": "112 Nm",
+            "peso": "189 kg"
+        },
+        "img": "https://www.cyclenews.com/wp-content/uploads/2023/04/2023-Ducati-Streetfighter-V4-S-right-side.jpg"
+    },
+    {
+        "nombre": "BMW S1000RR",
+        "precio_usd": 17000,
+        "rating": 5,
+        "ficha_tecnica": {
+            "motor": "4 cilindros en línea 999 cc",
+            "potencia": "205 hp",
+            "torque": "113 Nm",
+            "peso": "197 kg"
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbU8_jgsO4TcOBpw6HUTm4cSH2xNzTKw-iGw&s"
+    },
+    {
+        "nombre": "MV Agusta F4 RC",
+        "precio_usd": 24000,
+        "rating": 5,
+        "ficha_tecnica": {
+            "motor": "4 cilindros en línea 998 cc",
+            "potencia": "212 hp",
+            "torque": "113 Nm",
+            "peso": "169 kg"
+        },
+        "img": "https://www.moto1pro.com/sites/default/files/mv_agusta_f4_serie_oro_extras_-_14-x3_12_28_2021.jpg"
+    },
+    {
+        "nombre": "Yamaha YZF-R1",
+        "precio_usd": 17000,
+        "rating": 5,
+        "ficha_tecnica": {
+            "motor": "4 cilindros en línea 998 cc",
+            "potencia": "200 hp",
+            "torque": "112 Nm",
+            "peso": "200 kg"
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXPnNm5RC0s66ssqeTlhdoWbdmudHiFY3cNQ&s"
+    },
+    {
+        "nombre": "Suzuki Hayabusa",
+        "precio_usd": 15000,
+        "rating": 5,
+        "ficha_tecnica": {
+            "motor": "4 cilindros en línea 1340 cc",
+            "potencia": "197 hp",
+            "torque": "155 Nm",
+            "peso": "266 kg"
+        },
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SUZUKI_Hayabusa_2007TMS.jpg/1200px-SUZUKI_Hayabusa_2007TMS.jpg"
+    },
+    {
+        "nombre": "Kawasaki ZX-10R",
+        "precio_usd": 16000,
+        "rating": 5,
+        "ficha_tecnica": {
+            "motor": "4 cilindros en línea 998 cc",
+            "potencia": "203 hp",
+            "torque": "114 Nm",
+            "peso": "206 kg"
+        },
+        "img": "https://http2.mlstatic.com/D_NQ_NP_690825-MLA78414291989_082024-O.webp"
+    },
+    {
+        "nombre": "Honda CBR1000RR Fireblade",
+        "precio_usd": 16500,
+        "rating": 5,
+        "ficha_tecnica": {
+            "motor": "4 cilindros en línea 999 cc",
+            "potencia": "189 hp",
+            "torque": "113 Nm",
+            "peso": "202 kg"
+        },
+        "img": "https://www.honda.es/content/dam/central/motorcycles/supersports/cbr1000rr-rr-fireblade-2024/overview/usp-carousel/honda-cbr1000rr-r-usp-carousel-1728x972-desktop6.jpg/_jcr_content/renditions/c2_r.jpg"
+    },
+    {
+        "nombre": "Ducati Multistrada 1260",
+        "precio_usd": 19000,
+        "rating": 4.8,
+        "ficha_tecnica": {
+            "motor": "V-twin 1262 cc",
+            "potencia": "158 hp",
+            "torque": "124 Nm",
+            "peso": "218 kg"
+        },
+        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/2ahmmU1qsgKyY2YYeyq8wU/5b505ece4722d4801dd6b8760ba4af0b/Multistrada-1260-MY18-Red-33-Slider-Gallery-1920x1080.jpg"
+    },
+    {
+        "nombre": "Triumph Speed Triple 1200 RS",
+        "precio_usd": 18000,
+        "rating": 4.9,
+        "ficha_tecnica": {
+            "motor": "3 cilindros en línea 1160 cc",
+            "potencia": "177 hp",
+            "torque": "124 Nm",
+            "peso": "188 kg"
+        },
+        "img": "https://gen-performance.com/cdn/shop/files/TRIUMPH_SPEED_TRIPLE_1200_RS_GEN_PERFORMANCE.webp?v=1733768115&width=3840"
+    },
+    {
+        "nombre": "Ducati Diavel 1260",
+        "precio_usd": 19500,
+        "rating": 4.8,
+        "ficha_tecnica": {
+            "motor": "V-twin 1262 cc",
+            "potencia": "157 hp",
+            "torque": "134 Nm",
+            "peso": "240 kg"
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO4lgc8qT3TL36YNL9RzqoKoq5BF1PK6PLkA&s"
+    },
+    {
+        "nombre": "KTM 1290 Super Duke R",
+        "precio_usd": 18000,
+        "rating": 4.9,
+        "ficha_tecnica": {
+            "motor": "V-twin 1301 cc",
+            "potencia": "180 hp",
+            "torque": "140 Nm",
+            "peso": "176 kg"
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwGMZpnhZysOboTu13l7x-cHykchMNuoy_Eg&s"
+    },
+    {
+        "nombre": "Aprilia Tuono V4 1100",
+        "precio_usd": 15500,
+        "rating": 4.8,
+        "ficha_tecnica": {
+            "motor": "V4 1077 cc",
+            "potencia": "175 hp",
+            "torque": "115 Nm",
+            "peso": "195 kg"
+        },
+        "img": "https://aprilia-colombia.com/wp-content/uploads/2022/03/P2A6674-1.jpg.webp"
+    },
+    {
+        "nombre": "BMW R18",
+        "precio_usd": 18500,
+        "rating": 4.7,
+        "ficha_tecnica": {
+            "motor": "Flat-twin 1802 cc",
+            "potencia": "91 hp",
+            "torque": "150 Nm",
+            "peso": "345 kg"
+        },
+        "img": "https://www.motor.com.co/__export/1663258524971/sites/motor/img/2022/09/15/bmw_r18_pure.jpg_509508262.jpg"
+    },
+    {
+        "nombre": "Triumph Tiger 1200",
+        "precio_usd": 17000,
+        "rating": 4.8,
+        "ficha_tecnica": {
+            "motor": "3 cilindros en línea 1215 cc",
+            "potencia": "150 hp",
+            "torque": "120 Nm",
+            "peso": "215 kg"
+        },
+        "img": "https://www.motor.com.co/__export/1676949604184/sites/motor/img/2023/02/20/triumph_tiger_1200_rally_explorer_01.jpg_1324945239.jpg"
+    },
+    {
+        "nombre": "MV Agusta Brutale 1090",
+        "precio_usd": 16000,
+        "rating": 4.8,
+        "ficha_tecnica": {
+            "motor": "3 cilindros en línea 1078 cc",
+            "potencia": "150 hp",
+            "torque": "106 Nm",
+            "peso": "174 kg"
+        },
+        "img": "https://media.mundimoto.com/images/0988HXK/00_medium.jpg"
+    },
+    {
+        "nombre": "Suzuki GSX-R1000",
+        "precio_usd": 15000,
+        "rating": 4.9,
+        "ficha_tecnica": {
+            "motor": "4 cilindros en línea 999 cc",
+            "potencia": "199 hp",
+            "torque": "114 Nm",
+            "peso": "199 kg"
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hd-5_-mblND6eLa0Cs5Mha0-dHwAKCW7oQ&s"
+    },
+    {
+        "nombre": "Kawasaki Ninja ZX-14R",
+        "precio_usd": 17500,
+        "rating": 4.8,
+        "ficha_tecnica": {
+            "motor": "4 cilindros en línea 1441 cc",
+            "potencia": "200 hp",
+            "torque": "144 Nm",
+            "peso": "244 kg"
+        },
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpesfKKp6rSBZ36dZK-N8D_1OGAja0EZMPLg&s"
+    }
+]
